@@ -39,6 +39,20 @@ section div:nth-child(4) {
 }
 
 @media only screen and (min-width: 25em) {
+
+  section {
+  }
+
+  section div:nth-child(1) {}
+
+  section div:nth-child(2) {}
+
+  section div:nth-child(3) {}
+
+  section div:nth-child(4) {}
+
+  section div:nth-child(5) {}
+
 }
 
 @media only screen and (min-width: 38em) {
