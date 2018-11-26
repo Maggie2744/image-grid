@@ -45,27 +45,27 @@ img {
     flex-wrap: wrap;
   }
 
-  section div:nth-child(1) {
+  .photo:nth-child(1) {
     position: static;
     width: 100%;
   }
 
-  section div:nth-child(2) {
+  .photo:nth-child(2) {
     position: static;
     width: 50%;
   }
 
-  section div:nth-child(3) {
+  .photo:nth-child(3) {
     position: static;
     width: 50%;
   }
 
-  section div:nth-child(4) {
+  .photo:nth-child(4) {
     position: static;
     width: 50%;
   }
 
-  section div:nth-child(5) {
+  .photo:nth-child(5) {
     position: static;
     width: 50%;
   }
@@ -77,15 +77,15 @@ img {
   section {
   }
 
-  section div:nth-child(1) {}
+  .photo:nth-child(1) {}
 
-  section div:nth-child(2) {}
+  .photo:nth-child(2) {}
 
-  section div:nth-child(3) {}
+  .photo:nth-child(3) {}
 
-  section div:nth-child(4) {}
+  .photo:nth-child(4) {}
 
-  section div:nth-child(5) {}
+  .photo:nth-child(5) {}
 
 }
 
@@ -94,14 +94,14 @@ img {
   section {
   }
 
-  section div:nth-child(1) {}
+  .photo:nth-child(1) {}
 
-  section div:nth-child(2) {}
+  .photo:nth-child(2) {}
 
-  section div:nth-child(3) {}
+  .photo:nth-child(3) {}
 
-  section div:nth-child(4) {}
+  .photo:nth-child(4) {}
 
-  section div:nth-child(5) {}
+  .photo:nth-child(5) {}
 
 }
