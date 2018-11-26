@@ -10,33 +10,30 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-}
-img {
-  display: block;
-  width: 100%;
-}
-
-section div:nth-child(2) {
-  position: absolute;
-}
-
-section div:nth-child(3) {
-  position: absolute;
-  z-index: 10;
-}
-
-section div:nth-child(5) {
-  display: relative;
-  z-index: 9;
-}
-
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
+
+body {
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+section div:nth-child() {}
+
+section div:nth-child() {}
+
+section div:nth-child() {}
+
+section div:nth-child() {}
+
+section div:nth-child() {}
 
 @media only screen and (min-width: 25em) {
 }
