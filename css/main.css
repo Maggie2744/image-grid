@@ -25,16 +25,16 @@ img {
   width: 100%;
 }
 
-section div:nth-child(2) {
+.photo:nth-child(2) {
   position: absolute;
 }
 
-section div:nth-child(3) {
+.photo:nth-child(3) {
   position: relative;
   z-index: 10;
 }
 
-section div:nth-child(4) {
+.photo:nth-child(4) {
   position: absolute;
 }
 
